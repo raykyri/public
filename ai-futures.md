@@ -18,6 +18,8 @@
    Your lived observation is genuinely useful data for thinking about which of these pictures is more right, at least in the near term.
 
    {>> lol <<}
+
+   {>> could probably build a better set of references here too, this is pretty surface level <<}
 -* How recent is Acemoglu's work? Has he spoken or written on this since around 2023?
 -⏺ Yes, Acemoglu has been quite active on this topic recently. He published a notable paper in 2024 — "The Simple Macroeconomics of AI" — where he argued that AI's economic impact would be more modest than the hype suggests, partly because it would affect a limited subset of tasks and partly because of the kinds of bottlenecks you're observing (physical world, human judgment, etc.). He estimated something like a 0.5% GDP gain over a decade, which was seen as a splash of cold water relative to the more breathless predictions.
    
