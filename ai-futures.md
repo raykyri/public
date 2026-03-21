@@ -1,4 +1,4 @@
--* It seems like AI is affecting people I know in technical domains a lot more than it's affecting people outside. Roughly, in order, programmers > analysts and actuaries > lawyers > doctors > people in the trades and manual labor. I'm sure people have made observations about this, but is there anyone who has tried to extrapolate this to how a software singularity would go?
+-* It seems like AI is affecting people I know in technical domains a lot more than it's affecting people outside. Roughly, in order, programmers > analysts > actuaries > lawyers > doctors > people in the trades and manual labor. I'm sure people have made observations about this, but is there anyone who has tried to extrapolate this to how a software singularity would go?
 -⏺ You're touching on something that a number of thinkers have discussed, though the framing varies.
    
    The basic observation — that AI impacts cognitive-symbolic work before physical work — is well established. Economists like Erik Brynjolfsson and Daron Acemoglu have written extensively about how automation tends to hit "routine cognitive" tasks first. What's somewhat surprising in the current wave is that it's hitting *non-routine* cognitive work too, which wasn't what older models predicted. The ordering you describe roughly tracks with how formalized and digitized a domain's inputs and outputs are.
@@ -11,11 +11,13 @@
    
    **Leopold Aschenbrenner's "Situational Awareness"** memo explicitly argues that AI will first automate AI research itself, creating a recursive loop in the software domain specifically, well before it conquers physical tasks. This is essentially your gradient taken to its logical extreme.
    
-   **Eliezer Yudkowsky** has pushed back on the idea that the gradient you observe would persist — his argument is that a sufficiently intelligent system would find creative ways around physical bottlenecks (e.g., by designing better robots, or by finding purely informational leverage points that have outsized physical-world effects). So the ordering might hold for narrow AI but collapse suddenly with AG I.
+   **Eliezer Yudkowsky** has pushed back on the idea that the gradient you observe would persist — his argument is that a sufficiently intelligent system would find creative ways around physical bottlenecks (e.g., by designing better robots, or by finding purely informational leverage points that have outsized physical-world effects). So the ordering might hold for narrow AI but collapse suddenly with AGI.
    
    The interesting tension is between people who think the gradient you're seeing is a durable feature of how a singularity would unfold (Hanson-style: slow, uneven, bottlenecked by atoms) versus those who think it's a temporary artifact that would be quickly overcome once AI crosses a general capability threshold (Yudkowsky-style: fast, convergent, the software domain is just the entry point).
    
    Your lived observation is genuinely useful data for thinking about which of these pictures is more right, at least in the near term.
+
+   {>> lol <<}
 -* How recent is Acemoglu's work? Has he spoken or written on this since around 2023?
 -⏺ Yes, Acemoglu has been quite active on this topic recently. He published a notable paper in 2024 — "The Simple Macroeconomics of AI" — where he argued that AI's economic impact would be more modest than the hype suggests, partly because it would affect a limited subset of tasks and partly because of the kinds of bottlenecks you're observing (physical world, human judgment, etc.). He estimated something like a 0.5% GDP gain over a decade, which was seen as a splash of cold water relative to the more breathless predictions.
    
@@ -82,6 +84,9 @@
    Wage polarization could take a surprising shape. Rather than the usual high-skill-vs-low-skill story, you might get a barbell where high-skill cognitive workers and physical-service workers both do well, while the middle band of cognitive workers — the people who thought they were safe because they went to college and got an office job — experience the most disruption. This is politically volatile because it hits the demographic that considers itself middle class.
    
    One wild card: the productivity gains might not show up in GDP the way economists expect, because a lot of what AI enables is *cost reduction* rather than *new output*. A company that replaces five analysts with one analyst plus AI tools hasn't created new economic activity — it's just captured margin. If this pattern dominates, you could get a world that feels richer at the firm level but stagnant or worse at the aggregate level, with the gains flowing to capital rather than labor. This would look a lot like the productivity paradox of the last few decades, just more intense.
+
+   {>> Alright, these are pretty familiar, we could try probing around the industries that are seeing a lot of automation and try to sketch out that that looks like given what we're seeing today, and projections. We could start with what the world looks like with massive capital concentration, that probably takes us toward economic history. We could also just ask for more unconventional/offbeat takes too. <<}
+   
 -* What's the productivity paradox of the last few decades?
 -⏺ The basic puzzle is that despite massive advances in computing and information technology since roughly the 1990s, measured productivity growth in advanced economies has been sluggish or declining. Robert Solow captured it memorably in 1987: "You can see the computer age everywhere but in the productivity statistics."
    
