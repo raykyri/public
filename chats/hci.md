@@ -1,3 +1,7 @@
+---
+title: Novel HCI Interfaces
+---
+
 ~ What are some novel HCI interfaces that I could implement inside a text editor?
 ⏺ - Semantic zoom for code: pinch/keys to smoothly move between tokens, lines, blocks, functions, and architecture views.
   - Intent lens: hold a modifier to reveal why code exists, likely next edits, and affected symbols inline.
