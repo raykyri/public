@@ -1,5 +1,5 @@
 ---
-title: Novel HCI interfaces
+title: Novel HCI Interfaces
 ---
 
 ~ What are some novel HCI interfaces that I could implement inside a text editor?
