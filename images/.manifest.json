@@ -120,6 +120,16 @@
       "byteSize": 724116,
       "createdAt": 1780722393741,
       "uploadedBy": "s9FQP48YgASWg2jvcNa6t6gJ4MFcJKfz"
+    },
+    {
+      "id": "6de35fd8-7b8c-44b9-90a9-74f8c4de2cc1",
+      "filename": "image.png",
+      "path": "images/6de35fd8-7b8c-44b9-90a9-74f8c4de2cc1.png",
+      "rawUrl": "https://raw.githubusercontent.com/raykyri/public/main/images/6de35fd8-7b8c-44b9-90a9-74f8c4de2cc1.png",
+      "contentType": "image/png",
+      "byteSize": 306235,
+      "createdAt": 1782245620947,
+      "uploadedBy": "s9FQP48YgASWg2jvcNa6t6gJ4MFcJKfz"
     }
   ]
 }
